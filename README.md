@@ -5,8 +5,8 @@ Este é um projeto de exemplo que demonstra a criação, listagem e exclusão de
 Recursos:
 
 <ul>
-  <li>Criação de pessoas com nome, descrição.</li>
-  <li>Listagem de todas as pessoas.</li>
+  <li>Criação de tarefas com nome, descrição, situação.</li>
+  <li>Listagem de todas as tarefas.</li>
   <li>Exclusão de posts existentes.</li>
   <li>Autenticação de usuários com Sanctum.</li>
 </ul>
